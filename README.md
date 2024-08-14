@@ -25,7 +25,17 @@ ollama run phi3 # necessary?
 python app.py # will download the data and train
 ```
 
+### Running the UI
+
+```bash
+python app-ui.py # will start the Gradio-based UI for interaction
+```
+
+![Basic User Interface using Gradio](https://github.com/user-attachments/assets/d9d3e80a-4471-4686-85ad-36ea7f9ab050)
+
 ## Credits
 
-[**Haystack AI: Production-ready RAG with Custom Data made easy!**](https://www.youtube.com/watch?v=8qqaqefugWQ) (Based on `v1.x`)<br/>
-Mervin Praison
+- [**Haystack AI: Production-ready RAG with Custom Data made easy!**](https://www.youtube.com/watch?v=8qqaqefugWQ) (Based on `v1.x`)<br/>
+_&ndash; Mervin Praison_
+- [**Intro to Haystack Pipelines: Build and customize AI applications**](https://www.youtube.com/watch?v=SxAwyeCkguc)<br/>
+_&ndash; Haystack_
